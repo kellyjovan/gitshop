@@ -156,9 +156,11 @@ body {
 }
 #body div div .featured img {
 	display: block;
+	height: 361px;
+	width: 960px;
 	left: 0;
 	position: absolute;
-	top: -112px;
+	top: 0px;
 	z-index: 1;
 }
 #body div div .section {
